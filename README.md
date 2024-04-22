@@ -16,7 +16,7 @@ This repository is your go-to resource for exploring various types of charts and
 **1. Clone the Repository:**  
 Start by cloning this repository to your local machine using the following command:
 ```
-git clone
+git clone https://github.com/ProdevSoftware/ChartsData.git
 ```
 **2. Explore the Examples:**  
 Navigate through Project navigator in left of xcode to find a variety of chart implementations and data analysis demonstrations. Each example is self-contained and accompanied by explanatory comments.  
