@@ -34,6 +34,4 @@ Enjoying your experience with SwiftUIChartsAndDataAnalysis? Spread the word by s
 ![gradientarea](https://github.com/prodev-mob/ChartsData/assets/97152083/d28ba383-fc13-45e2-94e7-467a07d74c63)
 ![bar_chart](https://github.com/prodev-mob/ChartsData/assets/97152083/f53b784b-4735-4c5f-80d0-95c15c2dbeec)
 
-
-
 **Happy coding! 🚀**
