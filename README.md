@@ -29,6 +29,11 @@ Once you've found a chart or data analysis technique that interests you, feel fr
 
 Enjoying your experience with SwiftUIChartsAndDataAnalysis? Spread the word by starring the repository and sharing it with your friends and colleagues. Let's build a vibrant community around SwiftUI development and data analysis together!  
 
----------------------------------------------  
+---------------------------------------------
+![line_chart](https://github.com/prodev-mob/ChartsData/assets/97152083/d36e4a6c-9163-430b-a38c-da0eee5222c4)
+![gradientarea](https://github.com/prodev-mob/ChartsData/assets/97152083/d28ba383-fc13-45e2-94e7-467a07d74c63)
+![bar_chart](https://github.com/prodev-mob/ChartsData/assets/97152083/f53b784b-4735-4c5f-80d0-95c15c2dbeec)
+
+
 
 **Happy coding! 🚀**
